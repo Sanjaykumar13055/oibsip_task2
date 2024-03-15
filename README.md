@@ -1,4 +1,3 @@
-# OIBSIP_TASK2
 The system generates a random number from a given range, say 1 to 100.
 
 The user is prompted to enter their given number in a displayed dialogue box.
